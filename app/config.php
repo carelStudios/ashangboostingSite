@@ -1,9 +1,9 @@
 <?php
 define('PATH', realpath('.'));
 define('SUBFOLDER', false);
-define('URL', 'https://yourdomain.com' );
-define('STYLESHEETS_URL', '//yourdomain.com' );
-date_default_timezone_set('Asia/Kolkata');
+define('URL', 'http://ashangboosting.store/' );
+define('STYLESHEETS_URL', 'http://ashangboosting.store/' );
+date_default_timezone_set('Asia/Manila');
 
 /* 
  ini_set("display_errors","1");
@@ -12,10 +12,10 @@ error_reporting(E_ERROR);  */
 error_reporting(0);
 return [
   'db' => [
-    'name'    =>  'database name here' ,
+    'name'    =>  'smmsite' ,
     'host'    =>  'localhost',
-    'user'    =>  'database user here' ,
-    'pass'    =>  'database pass here' ,
+    'user'    =>  'root' ,
+    'pass'    =>  'Marinay..023' ,
     'charset' =>  'utf8mb4'
   ]
 ];
