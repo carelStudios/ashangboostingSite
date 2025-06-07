@@ -1,8 +1,8 @@
 <?php
 define('PATH', realpath('.'));
 define('SUBFOLDER', false);
-define('URL', 'http://ashangboosting.store/' );
-define('STYLESHEETS_URL', 'http://ashangboosting.store/' );
+define('URL', 'https://carelstudios.github.io/ashangboostingsite/' );
+define('STYLESHEETS_URL', 'https://carelstudios.github.io/ashangboostingsite/' );
 date_default_timezone_set('Asia/Manila');
 
 /* 
