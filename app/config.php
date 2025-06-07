@@ -14,7 +14,7 @@ return [
   'db' => [
     'name'    =>  'smmsite' ,
     'host'    =>  'localhost',
-    'user'    =>  'localhost' ,
+    'user'    =>  'root' ,
     'pass'    =>  'Marinay..023' ,
     'charset' =>  'utf8mb4'
   ]
